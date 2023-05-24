@@ -24,9 +24,9 @@ I'm a graduate in Computer Science ðŸŽ“ from Gujarat Technological University ðŸ
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `java`
+- **Languages**: `C`,`C++`, `java`
 
-- **Web Technologies**: `javaScript`,`PHP`,`Html`,`Css`,`Magento 2`
+- **Web Technologies**: `HTML`,`Css`,`javaScript`,`PHP`,`Magento 2`
 
 - **Database Technologies**: `MySQL`
 
