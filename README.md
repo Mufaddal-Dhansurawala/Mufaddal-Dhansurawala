@@ -9,7 +9,7 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Html,CSS,PHP <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Html,CSS,PHP <br /> Graphql, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Magento 2 Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: mufaddaldhansurawala@gmail.com.
@@ -51,7 +51,7 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
   	<ul>
   	    <li><b>OS:</b> Windows 10 Pro</li>
 	    <li><b>Laptop: </b> Dell inspiron 15 (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Google Chrome,Firefox Web Browser</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
