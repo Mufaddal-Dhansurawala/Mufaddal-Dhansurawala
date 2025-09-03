@@ -9,7 +9,7 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Html,CSS,PHP <br /> Graphql, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Html, CSS, PHP, GraphQL, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Magento 2 Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: mufaddaldhansurawala@gmail.com.
@@ -21,16 +21,23 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
 
 <!--**Have a look on my [portfolio](#) .**-->
 
-
 ### :gear: My skills include:
 
-- **Languages**: `C`,`C++`, `java`
-
-- **Web Technologies**: `HTML`,`Css`,`javaScript`,`PHP`,`Magento 2`
-
+- **Languages**: `C`, `C++`, `Java`
+- **Web Technologies**: `HTML`, `CSS`, `JavaScript`, `PHP`, `Magento 2`
 - **Database Technologies**: `MySQL`
+- **CS Core**: `Data Structures (basic)`, `Algorithms`, `DBMS`, `Operating System`, `OOP`
 
-- **CS Core**: `Data Structures(basic)`,`Algorithms`, `DBMS` , `Operating System` , `OOP`
+### :rocket: DevOps Skills & Tools:
+
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Containerization:** Docker  
+- **Orchestration:** Kubernetes (Basics)  
+- **Cloud Platforms:** AWS (EC2, S3 basics)  
+- **Infrastructure as Code:** Terraform (learning)  
+- **Version Control:** Git & GitHub  
+- **Monitoring:** Prometheus, Grafana (basic exposure)  
+- **Configuration Management:** Ansible (basic)  
 
 ### Projects and Dev Stuffs:
 
@@ -42,7 +49,7 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Pathak&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mufaddal-Dhansurawala&hide_border=true" />
 </details>
 
 <details>	
@@ -50,9 +57,9 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10 Pro</li>
-	    <li><b>Laptop: </b> Dell inspiron 15 (i5)</li>
-  	    <li><b>Browser: </b> Google Chrome,Firefox Web Browser</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>Laptop: </b> Dell Inspiron 15 (i5)</li>
+  	    <li><b>Browser: </b> Google Chrome, Firefox</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, LinkedIn, Twitter</li>
 	    <br />
 	</ul>	
 </details>
