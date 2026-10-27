@@ -51,6 +51,8 @@ To build reliable, scalable, and secure applications by combining development, a
 ![](https://github-contributor-stats.vercel.app/api?username=Mufaddal-Dhansurawala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mufaddal-Dhansurawala&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mufaddal-Dhansurawala&label=VISITORS&color=00C853&style=for-the-badge" alt="Visitors" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
