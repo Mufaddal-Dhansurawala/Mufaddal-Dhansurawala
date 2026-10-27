@@ -1,5 +1,3 @@
-### 💫 About Me
-
 👋 Hey there, I'm **Mufaddal Dhansurawala!**
 
 🎓 **Computer Engineering Graduate | Aspiring DevOps Engineer | Tech Enthusiast**
