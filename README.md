@@ -1,5 +1,34 @@
-# 💫 About Me:
-# 👋 Hey there, I'm Mufaddal Dhansurawala!<br><br>🎓 **Computer Engineering Graduate | Aspiring DevOps Engineer | Tech Enthusiast**<br><br>I'm a passionate technology enthusiast who enjoys exploring new technologies, solving real-world problems, and continuously improving my technical skills. 💡<br><br>💻 With a background in **Web Development and Magento 2**, I'm expanding my expertise into the world of **DevOps, Cloud Computing, and Automation**.<br><br>🚀 **Currently Learning & Exploring**<br>- 🐧 Linux & Networking<br>- 🔧 Git & GitHub<br>- 🐳 Docker & Containerization<br>- ⚙️ CI/CD Pipelines & Jenkins<br>- ☁️ AWS & Cloud Infrastructure<br>- 🤖 Infrastructure Automation & DevSecOps<br>- 📊 Monitoring & Observability<br><br>🌱 **My Mission**<br><br>To build reliable, scalable, and secure applications by combining development, automation, and cloud technologies.<br><br>🛠️ I believe in learning by doing, building hands-on projects, documenting my progress, and sharing knowledge with the developer community.<br><br>🤝 Always open to connecting with developers, DevOps engineers, and technology enthusiasts to collaborate, exchange ideas, and grow together.<br><br>📫 **Let's Connect & Build Something Amazing!**<br><br>✨ *Keep Learning. Keep Building. Keep Automating.*<br><br>
+### 💫 About Me
+
+👋 Hey there, I'm **Mufaddal Dhansurawala!**
+
+🎓 **Computer Engineering Graduate | Aspiring DevOps Engineer | Tech Enthusiast**
+
+I'm passionate about exploring new technologies, solving real-world problems, and continuously improving my technical skills. 💡
+
+💻 With a background in **Web Development and Magento 2**, I'm expanding my expertise into **DevOps, Cloud Computing, and Automation**.
+
+### 🚀 Currently Learning & Exploring
+
+- 🐧 Linux & Networking
+- 🔧 Git & GitHub
+- 🐳 Docker & Containerization
+- ⚙️ CI/CD Pipelines & Jenkins
+- ☁️ AWS & Cloud Infrastructure
+- 🤖 Infrastructure Automation & DevSecOps
+- 📊 Monitoring & Observability
+
+### 🌱 My Mission
+
+To build reliable, scalable, and secure applications by combining development, automation, and cloud technologies.
+
+🛠️ I believe in learning by doing, building hands-on projects, documenting my progress, and sharing knowledge with the developer community.
+
+🤝 Always open to connecting with developers, DevOps engineers, and technology enthusiasts to collaborate, exchange ideas, and grow together.
+
+### 📫 Let's Connect & Build Something Amazing!
+
+✨ *Keep Learning. Keep Building. Keep Automating.*
 
 
 ## 🌐 Socials:
