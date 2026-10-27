@@ -1,73 +1,27 @@
-## Hey there, I'm **[Mufaddal Dhansurawala](https://www.linkedin.com/in/mufaddal-dhansurawala/)** :wave:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mufaddal-dhansurawala)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhansurawala)
-<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](#)-->
-<!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](#)-->
-
-I'm a graduate in Computer Science 🎓 from Gujarat Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on Magento 2 🤓.
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Html, CSS, PHP, GraphQL, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Magento 2 Development.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: mufaddaldhansurawala@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-
-<!--**Have a look on my [portfolio](#) .**-->
-
-### :gear: My skills include:
-
-- **Languages**: `C`, `C++`, `Java`
-- **Web Technologies**: `HTML`, `CSS`, `JavaScript`, `PHP`, `Magento 2`
-- **Database Technologies**: `MySQL`
-- **CS Core**: `Data Structures (basic)`, `Algorithms`, `DBMS`, `Operating System`, `OOP`
-
-### :rocket: DevOps Skills & Tools:
-
-- **CI/CD:** Jenkins, GitHub Actions  
-- **Containerization:** Docker  
-- **Orchestration:** Kubernetes (Basics)  
-- **Cloud Platforms:** AWS (EC2, S3 basics)  
-- **Infrastructure as Code:** Terraform (learning)  
-- **Version Control:** Git & GitHub  
-- **Monitoring:** Prometheus, Grafana (basic exposure)  
-- **Configuration Management:** Ansible (basic)  
-
-### Projects and Dev Stuffs:
-
-| <a href="https://github.com/Mufaddal-Dhansurawala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mufaddal-Dhansurawala&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Mufaddal's github stats" /></a> | <a href="https://github.com/Mufaddal-Dhansurawala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufaddal-Dhansurawala&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+# 💫 About Me:
+# 👋 Hey there, I'm Mufaddal Dhansurawala!<br><br>🎓 **Computer Engineering Graduate | Aspiring DevOps Engineer | Tech Enthusiast**<br><br>I'm a passionate technology enthusiast who enjoys exploring new technologies, solving real-world problems, and continuously improving my technical skills. 💡<br><br>💻 With a background in **Web Development and Magento 2**, I'm expanding my expertise into the world of **DevOps, Cloud Computing, and Automation**.<br><br>🚀 **Currently Learning & Exploring**<br>- 🐧 Linux & Networking<br>- 🔧 Git & GitHub<br>- 🐳 Docker & Containerization<br>- ⚙️ CI/CD Pipelines & Jenkins<br>- ☁️ AWS & Cloud Infrastructure<br>- 🤖 Infrastructure Automation & DevSecOps<br>- 📊 Monitoring & Observability<br><br>🌱 **My Mission**<br><br>To build reliable, scalable, and secure applications by combining development, automation, and cloud technologies.<br><br>🛠️ I believe in learning by doing, building hands-on projects, documenting my progress, and sharing knowledge with the developer community.<br><br>🤝 Always open to connecting with developers, DevOps engineers, and technology enthusiasts to collaborate, exchange ideas, and grow together.<br><br>📫 **Let's Connect & Build Something Amazing!**<br><br>✨ *Keep Learning. Keep Building. Keep Automating.*<br><br>
 
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mufaddal-dhansurawala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mufaddaldhansurawala@gmail.com) 
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mufaddal-Dhansurawala&hide_border=true" />
-</details>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mufaddal-Dhansurawala&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mufaddal-Dhansurawala&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mufaddal-Dhansurawala&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10 Pro</li>
-	    <li><b>Laptop: </b> Dell Inspiron 15 (i5)</li>
-  	    <li><b>Browser: </b> Google Chrome, Firefox</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, LinkedIn, Twitter</li>
-	    <br />
-	</ul>	
-</details>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mufaddal-Dhansurawala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mufaddal-Dhansurawala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Show some ❤️ by starring some of the repositories!
+---
+[![](https://komarev.com/ghpvc/?username=Mufaddal-Dhansurawala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
